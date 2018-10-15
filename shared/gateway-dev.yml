@@ -1,3 +1,4 @@
+test: 1
 spring:
   profiles: dev
   # 重试机制
